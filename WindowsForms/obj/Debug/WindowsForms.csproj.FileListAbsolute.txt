@@ -11,3 +11,16 @@ E:\WinFromProject\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
 E:\WinFromProject\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MainForm.resources
 E:\WinFromProject\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form3.resources
 E:\WinFromProject\WindowsForms\WindowsForms\obj\Debug\WindowsForms.SQL.resources
+E:\WinFromProject\WinformStudy\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\WinFromProject\WinformStudy\WindowsForms\bin\Debug\WindowsForms.exe
+E:\WinFromProject\WinformStudy\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.Form3.resources
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.MainForm.resources
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.SQL.resources
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.exe
+E:\WinFromProject\WinformStudy\WindowsForms\obj\Debug\WindowsForms.pdb
