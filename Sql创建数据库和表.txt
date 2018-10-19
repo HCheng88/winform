@@ -1,0 +1,17 @@
+create database data1220      --创建数据库
+go                            --go代表后面的语句是在前面语句执行的基础上进行的
+use data1220                  --确定操作数据库对象
+go
+create table users            --给数据库添加一个表
+(
+code int identity(1,1) primary key,   --定义一个自增长列，并设为主键     
+name varchar(20) not null,         --姓名列，不许为空
+pwd varchar(20) not null           --密码列，不许为空
+)
+insert into users values('zhangsan', 111)  --给数据库中的users表，添加数据
+insert into users values('lisi' ,222)
+insert into users values('wangwu',333)
+insert into users values('zhaoliu',444)
+
+select *from users    --查询数据
+delete from users
